@@ -8,6 +8,9 @@ public class App {
         System.out.println(new App().getMessage());
     }
 
+    /**
+     * @return The hello world message
+     */
     public String getMessage() {
         return "Hello World!";
     }

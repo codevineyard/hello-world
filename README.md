@@ -1,3 +1,3 @@
 # Hello World!
 
-This project is a test for using Maven Central.
+A test project for using the Central Repository.
